@@ -18,7 +18,7 @@
  ## Here are my Top skills : 
 
 <div class="grid-container">
-<img class="image" src="images/html5.png" width="100px" height="100px"/>
+<img class="image" src="images/html5.png" width="50px" height="50px"/>
 <img class="image" src="images/css3.png" width="100px" height="100px"/>
 <img class="image" src="images/javascript.png" width="100px" height="100px"/>
 <img class="image" src="images/react.png" width="100px" height="100px"/>
