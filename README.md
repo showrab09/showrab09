@@ -18,14 +18,14 @@
  ## Here are my Top skills : 
 
 <div class="grid-container">
-<img class="image" src="images/html5-icon.png" width="100px" height="100px"/>
-<img class="image" src="images/css.svg" width="100px" height="100px"/>
-<img class="image" src="images/js.png" width="100px" height="100px"/>
-<img class="image" src="images/react-icon.png" width="100px" height="100px"/>
+<img class="image" src="images/html5.png" width="100px" height="100px"/>
+<img class="image" src="images/css3.png" width="100px" height="100px"/>
+<img class="image" src="images/javascript.png" width="100px" height="100px"/>
+<img class="image" src="images/react.png" width="100px" height="100px"/>
 <img class="image" src="images/nodejs.png" width="100px" height="100px"/>
-<img class="image" src="images/mongodb.svg" width="100px" height="100px"/>
-<img class="image" src="images/cp.png" width="100px" height="100px"/>
-<img class="image" src="images/python.png" width="100px" height="100px"/>
+<img class="image" src="images/mongodb.png" width="100px" height="100px"/>
+<img class="image" src="images/firebase.png" width="100px" height="100px"/>
+<img class="image" src="images/bootstrap.png" width="100px" height="100px"/>
 </div>
 
 
