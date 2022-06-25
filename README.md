@@ -20,12 +20,13 @@
 <div class="grid-container">
 <img class="image" src="images/html5.png" width="60px" height="60px"/>
 <img class="image" src="images/css3.png" width="60px" height="60px"/>
+ <img class="image" src="images/bootstrap.png" width="60px" height="60px"/>
 <img class="image" src="images/javascript.png" width="60px" height="60px"/>
 <img class="image" src="images/react.png" width="60px" height="60px"/>
+ <img class="image" src="images/firebase.png" width="60px" height="60px"/>
 <img class="image" src="images/nodejs.png" width="60px" height="60px"/>
 <img class="image" src="images/mongodb.png" width="60px" height="60px"/>
-<img class="image" src="images/firebase.png" width="60px" height="60px"/>
-<img class="image" src="images/bootstrap.png" width="60px" height="60px"/>
+
 </div>
 
 
