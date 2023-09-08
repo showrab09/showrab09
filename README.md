@@ -23,6 +23,7 @@
 <img class="image" src="images/javascript.png" width="60px" height="60px"/>
 <img class="image" src="images/react.png" width="60px" height="60px"/>
 <img class="image" src="images/bootstrap.png" width="60px" height="60px"/>
+ <br>
 <img class="image" src="images/firebase.png" width="60px" height="60px"/>
 <img class="image" src="images/nodejs.png" width="60px" height="60px"/>
 <img class="image" src="images/mongodb.png" width="60px" height="60px"/>
