@@ -27,7 +27,7 @@
 <img class="image" src="images/nodejs.png" width="60px" height="60px"/>
 <img class="image" src="images/mongodb.png" width="60px" height="60px"/>
 <img class="image" src="images/wordpress.png" width="60px" height="60px"/>
-<img class="image" src="images/react-native.png" width="60px" height="60px"/>
+<img class="image" src="images/reactnative.png" width="60px" height="60px"/>
 
 </div>
 
