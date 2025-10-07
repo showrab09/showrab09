@@ -18,9 +18,9 @@
  ## Here are my Top skills : 
 
 <div class="grid-container ">
-<img class="image" src="images/python.png" width="60px" height="60px" margin="3px"/>
+<img class="image" src="images/html.png" width="60px" height="60px" margin="3px"/>
  
-<img class="image" src="images/C++.png" width="60px" height="60px"/>
+<img class="image" src="images/css.png" width="60px" height="60px"/>
 
 <img class="image" src="images/javascript.png" width="60px" height="60px"/>
 
@@ -34,7 +34,7 @@
 
 <img class="image" src="images/mongodb.png" width="60px" height="60px"/>
 
-<img class="image" src="images/C#.png" width="60px" height="60px"/>
+<img class="image" src="images/.png" width="60px" height="60px"/>
 
 <img class="image" src="images/logo.png" width="60px" height="60px"/>
 
