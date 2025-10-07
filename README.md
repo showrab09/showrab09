@@ -34,7 +34,7 @@
 
 <img class="image" src="images/mongodb.png" width="60px" height="60px"/>
 
-<img class="image" src="images/wordpress.png" width="60px" height="60px"/>
+<img class="image" src="images/figma.png" width="60px" height="60px"/>
 
 <img class="image" src="images/logo.png" width="60px" height="60px"/>
 
